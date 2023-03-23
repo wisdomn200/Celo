@@ -1,5 +1,8 @@
 node_modules
+<<<<<<< HEAD
 
 build/
 node_modules/
 generated/
+=======
+>>>>>>> 6dcb586d3d9934b11eb17818058cc31fa14382d9
